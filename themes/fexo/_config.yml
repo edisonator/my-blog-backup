@@ -1,0 +1,95 @@
+# Blog info
+blog_name: Edisonator
+slogan: 前端开发小飘云
+
+# Set avatar (Absolute url and relative url)
+avatar: /images/edisonator.png
+
+# Set favicon
+favicon: /favicon.ico
+
+# For seo
+keywords: 前端,前端开发,前端开发小飘云,许海浩,frontend,nodejs,JavaScript
+
+init_page_content: HOME_NAV  # HOME_NAV | POST
+
+home_nav:
+  - name: Blog
+    url: /archives
+  - name: Github
+    url: https://github.com/edisonator
+    target: _blank
+  - name: V2EX
+    url: http://v2ex.com/member/edisonator
+    target: _blank
+  - name: Weibo
+    url: http://weibo.com/guancanghai
+    target: _blank
+
+# config page nav
+page_nav:
+  - 博客: /archives/
+  - 分类: /category/
+  - 标签: /tag/
+  # - 友链: /link/
+  - 关于: /about/
+  # - RSS: /atom.xml
+
+page_nav_style: CIRCLE  # CIRCLE|ROUND_RECT
+
+# 面包屑
+breadcrumb:
+  isShow: true # true|fase
+
+# 盒子
+toolbox:
+  isShow: true # true|fase
+
+post:
+  header_align: CENTER # LEFT|CENTER
+  showToc: true # true|false
+
+link:
+  - name: 织网
+    info: 身体和灵魂，总有一个在路上
+    url: http://zheng-ji.info/
+    avatar: https://avatars3.githubusercontent.com/u/1414745?v=3&s=460
+
+about:
+  - type: me
+    icon: icon-user
+    text_value:
+    - "Edisonator，1989，天秤座。"
+    - "非典型性工科男。"
+    - "专注web前端开发，专注javascript。"
+  - type: Github
+    icon: icon-github
+    text_key: Github
+    text_value: "@edisonator"
+    text_value_url: https://github.com/edisonator
+  - type: weibo
+    text_key: 微博
+    text_value: "@关苍海"
+    text_value_url: http://weibo.com/guancanghai
+  - type: v2ex
+    text_key: V2EX
+    text_value: "@Edisonator"
+    text_value_url: http://v2ex.com/member/edisonator
+  - type: mail
+    text_key: Gmail
+    text_value: "edisonator@gmail.com"
+  - type: location
+    icon: icon-location
+    text_value: 武汉
+
+# Stats
+google_analytics: UA-52525871-2
+# baidu_analytics: 57e94d016e201fba3603a8a2b0263af0
+
+# Comment service
+disqus_shortname: Edisonator
+# duoshuo_shortname: forsigner
+
+# Custom CSS style
+# personal_style: /css/forsigner.css
+
