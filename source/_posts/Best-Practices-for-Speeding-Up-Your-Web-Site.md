@@ -1,4 +1,4 @@
-title: '提升页面性能的有效方式1'
+title: '提升页面性能的有效方式2'
 date: 2014-03-11 23:32:10
 tags: [javascript, css, 性能优化, http协议]
 category: 性能优化
