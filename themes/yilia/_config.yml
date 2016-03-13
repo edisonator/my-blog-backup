@@ -35,7 +35,7 @@ google_analytics: 'UA-52525871-2'
 favicon: /favicon.ico
 
 #你的头像url
-avatar: /images/edisonator.png
+avatar: /img/edisonator.png
 #是否开启分享
 share_jia: true
 share_addthis: false
