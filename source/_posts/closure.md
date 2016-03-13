@@ -1,7 +1,7 @@
 title: 我对闭包的初步理解
 date: 2012-08-18 23:09:00
-tags: [javascript, 闭包]
-category: javascript
+tags: [javascript]
+category: 技术
 
 ---
 

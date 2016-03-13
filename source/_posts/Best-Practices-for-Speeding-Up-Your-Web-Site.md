@@ -1,7 +1,7 @@
 title: '提升页面性能的有效方式'
 date: 2014-03-11 23:32:10
-tags: [javascript, css, 性能优化, http协议]
-category: 性能优化
+tags: [性能优化]
+category: 技术
 ---
 ##前言
 

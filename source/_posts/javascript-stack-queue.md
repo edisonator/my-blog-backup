@@ -1,7 +1,7 @@
-title: 随便说说JS数组中的栈与队列
+title: JS数组中的栈与队列
 date: 2013-08-24 16:31:29
-tags: [栈, 队列, javascript]
-category: javascript
+tags: [javascript]
+category: 技术
 ---
 
 ###1. 数组的栈操作

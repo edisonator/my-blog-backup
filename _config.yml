@@ -8,7 +8,7 @@ subtitle: 前端开发小飘云
 description: 我是一名前端开发工程师，这是我的个人博客，编程，技术，以及生活。
 author: Edisonator
 email:  edisonator@gmail.com
-language: zh-CN
+language: zh-Hans
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -71,7 +71,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fexo
+theme: yilia
 
 # Deployment
 ## Docs: http://zespia.tw/hexo/docs/deploy.html
@@ -79,9 +79,4 @@ deploy:
   type: git
   repository: git@github.com:edisonator/edisonator.github.io.git
   branch: master
-
-backup:
-    type: git
-    theme: fexo
-    repository:
-       github: git@github.com:edisonator/my-blog-backup.git,master
+  

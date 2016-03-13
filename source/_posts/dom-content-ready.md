@@ -1,7 +1,7 @@
 title: 谈谈JS开始加载的时机
 date: 2013-10-18 00:12:51
-tags: [javascript, jQuery, 前端框架]
-category: javascript
+tags: [javascript]
+category: 技术
 ---
 我如大多数人一样，在开始一段JS代码时会习惯性地用一些前端框架的API，譬如jQuery的<code>$(function(){})</code>开头，保证JS会在DOM加载完毕后开始运行，这样保证了JS对DOM操作时不会出错。
 
