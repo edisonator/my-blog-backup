@@ -4,7 +4,7 @@ tags: [javascript]
 category: 技术
 ---
 
-###1. 数组的栈操作
+### 1. 数组的栈操作
 使用javascript给数组提供的<code>push()</code>和<code>pop()</code>方法，可以实现类似栈的操作:
 
 ```javascript
@@ -21,7 +21,7 @@ alert(item);           // 'd'
 alert(words.length);   //  3
 ```
 <!-- more -->
-###2. 数组的队列操作
+### 2. 数组的队列操作
 使用以上介绍的<code>push()</code>并配合<code>shift()</code>可以实现数组队列的操作，因为<code>shift()</code>与<code>pop()</code>相反，是取出数组中的第一项并返回值。
 
 ```javascript
@@ -41,7 +41,7 @@ alert(words.length);  //3
 
     
 
-###3. **细节**，关于同时给栈/队列新添两项的顺序问题
+### 3. **细节**，关于同时给栈/队列新添两项的顺序问题
 如果在以上的方法里给出两个参数或两个以上参数，他们的栈和队列放入和取出的顺序又是如何的呢？
 
 ```javascript
