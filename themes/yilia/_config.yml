@@ -32,7 +32,7 @@ open_in_new: false
 
 # Miscellaneous
 google_analytics: 'UA-52525871-2'
-favicon: /favicon.png
+favicon: /favicon.ico
 
 #你的头像url
 avatar: /images/edisonator.png
