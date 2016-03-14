@@ -158,7 +158,7 @@ for (var i = 0; i < link.length; i++) {
 // => 输出从0到link.length - 1
 ```
 
-##仅使用一次的函数
+## 仅使用一次的函数
 	
 
 
